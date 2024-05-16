@@ -1,0 +1,9 @@
+# Virtual env folder
+mdocx/
+
+*.docx
+
+__pycache__/
+*.pyc
+
+commands.md
